@@ -1,0 +1,22 @@
+body {
+    background-image: url(BackgroundMain2JPEG.avif);
+    background-repeat: no-repeat;
+    background-size: 1550px;
+}
+
+.title {
+    margin-bottom: 0;
+}
+
+.sub {
+    margin-top: 0;
+}
+
+.Logoinvis {
+    width: 90px;
+    position: absolute;
+}
+
+.subntitle {
+    margin-left: 110px;
+}
